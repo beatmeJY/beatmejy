@@ -13,7 +13,7 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatmejy&line_height=32&hide=contribs&show_icons=true&rank_icon=github&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatmejy&hide=css&&langs_count=3&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
-<br/><br/><br/>
+<br/><br/>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
