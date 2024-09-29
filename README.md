@@ -1,5 +1,8 @@
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
 <!--타이틀 부분-->
-  <h1 align="">안녕하세요! 협업이 즐거운 백엔드 개발자 최지율 입니다!</h1>
+<h1 align="">안녕하세요! 협업이 즐거운 백엔드 개발자 최지율 입니다!</h1>
   
 <br/><br/>
 
@@ -61,3 +64,5 @@
   </a>
   <img src="https://img.shields.io/badge/beatmejy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
