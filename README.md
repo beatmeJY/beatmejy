@@ -1,10 +1,12 @@
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=header" />
-
 <!--타이틀 부분-->
-<h1 align="">안녕하세요! 협업이 즐거운 백엔드 개발자 최지율 입니다!</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=150&section=header" />
+
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=111664&text=백엔드%20개발자%20최지율입니다&fontSize=40&animation=fadeIn&fontColor=7b2c7a&height=150&section=header&desc=협업이%20즐거운&descSize=30&descAlign=20&descAlignY=15" />
   
-<br/><br/>
+</div>
+
+<br/><br/><br/><br/>
 
 <div align="center">
 
@@ -65,4 +67,8 @@
   <img src="https://img.shields.io/badge/beatmejy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=footer" />
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&height=150&section=footer" />
+
+</div>
