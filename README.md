@@ -59,10 +59,13 @@
 
 <br/>
 
-<h3 align="center">🛠 Tech post 🛠</h3>
+<h3 align="center">📖 Tech post 📖</h3>
 <div align="center">
   <a href="https://beatmejy.tistory.com"><img src="https://img.shields.io/badge/tech blog-FD5747?style=for-the-badge&logo=telegraph&logoColor=white" /></a>
   <a href="https://jiyoul.gitbook.io/keyword_study"><img src="https://img.shields.io/badge/keyword study-000000?style=for-the-badge&logo=gitbook&logoColor=white" /></a>
+</div>
+
+<div align="center">
   <a href="https://growth-with-retrospection.tistory.com/search/Youl"><img src="https://img.shields.io/badge/weekly retrospective-26375A?style=for-the-badge&logo=telegraph&logoColor=white" /></a>
 </div>
 
