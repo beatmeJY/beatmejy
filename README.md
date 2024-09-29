@@ -2,11 +2,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=150&section=header" />
 
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=111664&text=백엔드%20개발자%20최지율입니다&fontSize=40&animation=fadeIn&fontColor=7b2c7a&height=150&section=header&desc=협업이%20즐거운&descSize=30&descAlign=20&descAlignY=15" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=B2B4D3&text=백엔드%20개발자%20최지율입니다&fontSize=40&animation=fadeIn&fontColor=282A36&height=150&section=header&desc=협업이%20즐거운&descSize=30&descAlign=20&descAlignY=15" />
   
 </div>
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 <div align="center">
 
