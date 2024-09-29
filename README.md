@@ -59,12 +59,20 @@
 
 <br/>
 
+<h3 align="center">🛠 Tech post 🛠</h3>
+<div align="center">
+  <a href="https://beatmejy.tistory.com"><img src="https://img.shields.io/badge/tech blog-FD5747?style=for-the-badge&logo=telegraph&logoColor=white" /></a>
+  <a href="https://jiyoul.gitbook.io/keyword_study"><img src="https://img.shields.io/badge/keyword study-000000?style=for-the-badge&logo=gitbook&logoColor=white" /></a>
+  <a href="https://growth-with-retrospection.tistory.com/search/Youl"><img src="https://img.shields.io/badge/weekly retrospective-26375A?style=for-the-badge&logo=telegraph&logoColor=white" /></a>
+</div>
+
+<br/>
+
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://beatmejy.tistory.com">
-    <img src="https://img.shields.io/badge/tstory-E97627?style=for-the-badge&logo=telegraph&logoColor=white" />&nbsp
-  </a>
-  <img src="https://img.shields.io/badge/beatmejy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  
+  <a href="https://www.linkedin.com/in/%EC%A7%80%EC%9C%A8-%EC%B5%9C-3472b3283/"><img src="https://img.shields.io/badge/-Linked In-blue?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/beatmejy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </div>
 
 <div align="center">
