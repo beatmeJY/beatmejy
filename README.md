@@ -46,7 +46,7 @@ JVM & JMM, Kafka, Distributed Systems, Resilience Patterns, Python, Generative A
 
 ## Links
 
-Blog: https://beatmejy.github.io
-Keyword Study: https://jiyoul.gitbook.io/keyword_study
-Email: beatmejy@gmail.com
-LinkedIn: https://www.linkedin.com/in/지율-최-3472b3283/
+- Blog: https://beatmejy.github.io
+- Keyword Study: https://jiyoul.gitbook.io/keyword_study
+- Email: beatmejy@gmail.com
+- LinkedIn: https://www.linkedin.com/in/지율-최-3472b3283/
