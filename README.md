@@ -1,79 +1,52 @@
-<!--타이틀 부분-->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=150&section=header" />
+# 최지율
 
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=B2B4D3&text=백엔드%20개발자%20최지율입니다&fontSize=40&animation=fadeIn&fontColor=282A36&height=150&section=header&desc=협업이%20즐거운&descSize=30&descAlign=20&descAlignY=15" />
-  
-</div>
+### Backend Engineer · 4년차
 
-<br/><br/><br/>
+물류·풀필먼트 시스템을 중심으로 대규모 데이터 처리, 비동기 메시징, 동시성 제어, 장애 격리를 경험했다.
+운영 환경에서 발생하는 문제를 로그·실행계획·모니터링 데이터로 직접 분석하고, 근거를 바탕으로 구조를 개선하는 방식으로 일해왔다.
 
+---
 
-<!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/java 17-007396?style=for-the-badge&logo=openjdk&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Spring boot 3-6DB33F?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
-</div>
+## Experience Summary
 
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> 
-</div>
+**분산 처리**
+서버 역할을 분리하고 RabbitMQ·Redis Stream으로 이벤트 기반 통신을 구성했다. 동기 처리 구조를 비동기로 전환해 확장성을 확보했고, 외부 연동이 실패할 때를 대비한 재처리 구조도 설계했다.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</div>
+**동시성·정합성**
+Redis Lock으로 동시성을 제어하고, 이벤트 처리와 조합해 Race Condition을 방지했다.
 
-<br/>
+**성능·안정성**
+부하 테스트, 실행계획, Heap Dump 분석으로 병목을 찾아냈다. Thread Pool 고갈 문제는 Circuit Breaker로 차단해 장애 전파를 막았다.
 
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-    <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-</div>
+**데이터 구조 설계**
+이력·통계 데이터를 실시간 처리 데이터와 분리해 목적에 맞는 저장 구조를 설계했다.
 
-<br/>
+**Full-Stack**
+백엔드가 주력이지만, 필요할 때는 React·TypeScript로 프론트엔드까지 직접 구현했다.
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-</div>
+**협업**
+프로젝트를 리딩하며 코드 컨벤션을 정립했고, 신규 개발자 온보딩 과정을 문서화했다.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> 
-</div>
+---
 
-<br/>
+## Stack
 
-<h3 align="center">📖 Tech post 📖</h3>
-<div align="center">
-  <a href="https://beatmejy.tistory.com"><img src="https://img.shields.io/badge/tech blog-FD5747?style=for-the-badge&logo=telegraph&logoColor=white" /></a>
-  <a href="https://jiyoul.gitbook.io/keyword_study"><img src="https://img.shields.io/badge/keyword study-000000?style=for-the-badge&logo=gitbook&logoColor=white" /></a>
-</div>
+**Backend** Java 17, Kotlin, Spring Boot 3, JPA
+**DB / Messaging** MySQL, PostgreSQL, Redis, MongoDB, RabbitMQ
+**Infra** AWS, Docker, Linux
+**Frontend** TypeScript, React
 
-<div align="center">
-  <a href="https://growth-with-retrospection.tistory.com/search/Youl"><img src="https://img.shields.io/badge/weekly retrospective-26375A?style=for-the-badge&logo=telegraph&logoColor=white" /></a>
-</div>
+---
 
-<br/>
+## Currently Studying
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  
-  <a href="https://www.linkedin.com/in/%EC%A7%80%EC%9C%A8-%EC%B5%9C-3472b3283/"><img src="https://img.shields.io/badge/-Linked In-blue?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/beatmejy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</div>
+JVM & JMM, Kafka, Distributed Systems, Resilience Patterns, Python, Generative AI (RAG/Agent), TypeScript & React
 
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&height=150&section=footer" />
+---
 
-</div>
+## Links
+
+Blog: https://beatmejy.github.io
+Keyword Study: https://jiyoul.gitbook.io/keyword_study
+Email: beatmejy@gmail.com
+LinkedIn: https://www.linkedin.com/in/지율-최-3472b3283/
